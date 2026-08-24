@@ -1,7 +1,6 @@
 *
 
 !.gitignore
-!.env.example
 !README.md
 !docker-compose.yml
 !install.sh
@@ -16,8 +15,6 @@
 !docker/**
 !data/
 !data/**
-!assets/
-!assets/**
 
 node_modules/
 vendor/
