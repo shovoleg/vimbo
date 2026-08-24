@@ -97,7 +97,7 @@ done
 
 echo ""
 if [ "$OK" = "1" ]; then
-    echo "  ГОТОВО. Откройте http://192.168.1.155:8087"
+    echo "  ГОТОВО. Откройте https://vimbo.odotibmebel.synology.me/"
     echo ""
     echo "  Первый трейлер собирается несколько секунд, дальше берётся из кэша."
 else
