@@ -1,0 +1,337 @@
+{
+  "name": "Español (España)",
+  "dir": "ltr",
+  "titlePatterns": [
+    "{adj} {noun}",
+    "{noun} de {place}",
+    "{noun}, S.A.",
+    "{noun} {adj}",
+    "Temporada: {noun}",
+    "¿Dónde Está Mi {noun}?",
+    "{noun} {num}",
+    "{w:last} {noun}",
+    "{noun} y {noun2}",
+    "Más Allá de {place}",
+    "Días {adj:mp}",
+    "Sombra {w:ofthe} {noun}"
+  ],
+  "adjectives": [
+    {
+      "m": "Silencioso",
+      "f": "Silenciosa",
+      "mp": "Silenciosos",
+      "fp": "Silenciosas"
+    },
+    {
+      "m": "Carmesí",
+      "f": "Carmesí",
+      "mp": "Carmesíes",
+      "fp": "Carmesíes"
+    },
+    {
+      "m": "Último",
+      "f": "Última",
+      "mp": "Últimos",
+      "fp": "Últimas"
+    },
+    {
+      "m": "Roto",
+      "f": "Rota",
+      "mp": "Rotos",
+      "fp": "Rotas"
+    },
+    {
+      "m": "Dorado",
+      "f": "Dorada",
+      "mp": "Dorados",
+      "fp": "Doradas"
+    },
+    {
+      "m": "Infinito",
+      "f": "Infinita",
+      "mp": "Infinitos",
+      "fp": "Infinitas"
+    },
+    {
+      "m": "Salvaje",
+      "f": "Salvaje",
+      "mp": "Salvajes",
+      "fp": "Salvajes"
+    },
+    {
+      "m": "Oculto",
+      "f": "Oculta",
+      "mp": "Ocultos",
+      "fp": "Ocultas"
+    },
+    {
+      "m": "Amargo",
+      "f": "Amarga",
+      "mp": "Amargos",
+      "fp": "Amargas"
+    },
+    {
+      "m": "Norteño",
+      "f": "Norteña",
+      "mp": "Norteños",
+      "fp": "Norteñas"
+    },
+    {
+      "m": "Helado",
+      "f": "Helada",
+      "mp": "Helados",
+      "fp": "Heladas"
+    },
+    {
+      "m": "Ardiente",
+      "f": "Ardiente",
+      "mp": "Ardientes",
+      "fp": "Ardientes"
+    },
+    {
+      "m": "Lejano",
+      "f": "Lejana",
+      "mp": "Lejanos",
+      "fp": "Lejanas"
+    },
+    {
+      "m": "Inquieto",
+      "f": "Inquieta",
+      "mp": "Inquietos",
+      "fp": "Inquietas"
+    },
+    {
+      "m": "Férreo",
+      "f": "Férrea",
+      "mp": "Férreos",
+      "fp": "Férreas"
+    },
+    {
+      "m": "Hueco",
+      "f": "Hueca",
+      "mp": "Huecos",
+      "fp": "Huecas"
+    },
+    {
+      "m": "Oxidado",
+      "f": "Oxidada",
+      "mp": "Oxidados",
+      "fp": "Oxidadas"
+    },
+    {
+      "m": "Nocturno",
+      "f": "Nocturna",
+      "mp": "Nocturnos",
+      "fp": "Nocturnas"
+    },
+    {
+      "m": "Aterciopelado",
+      "f": "Aterciopelada",
+      "mp": "Aterciopelados",
+      "fp": "Aterciopeladas"
+    },
+    {
+      "m": "Sagrado",
+      "f": "Sagrada",
+      "mp": "Sagrados",
+      "fp": "Sagradas"
+    }
+  ],
+  "nouns": [
+    {
+      "t": "Horizonte",
+      "g": "m"
+    },
+    {
+      "t": "Protocolo",
+      "g": "m"
+    },
+    {
+      "t": "Invierno",
+      "g": "m"
+    },
+    {
+      "t": "Puerto",
+      "g": "m"
+    },
+    {
+      "t": "Motor",
+      "g": "m"
+    },
+    {
+      "t": "Promesa",
+      "g": "f"
+    },
+    {
+      "t": "Cenizas",
+      "g": "fp"
+    },
+    {
+      "t": "Señal",
+      "g": "f"
+    },
+    {
+      "t": "Jardín",
+      "g": "m"
+    },
+    {
+      "t": "Máquina",
+      "g": "f"
+    },
+    {
+      "t": "Eco",
+      "g": "m"
+    },
+    {
+      "t": "Frontera",
+      "g": "f"
+    },
+    {
+      "t": "Faro",
+      "g": "m"
+    },
+    {
+      "t": "Carga",
+      "g": "f"
+    },
+    {
+      "t": "Estática",
+      "g": "f"
+    },
+    {
+      "t": "Bóveda",
+      "g": "f"
+    },
+    {
+      "t": "Brújula",
+      "g": "f"
+    },
+    {
+      "t": "Túnel",
+      "g": "m"
+    },
+    {
+      "t": "Meridiano",
+      "g": "m"
+    },
+    {
+      "t": "Muelle",
+      "g": "m"
+    }
+  ],
+  "places": [
+    "Alba",
+    "Cristal",
+    "Hierro",
+    "Sal",
+    "Ámbar",
+    "Piedra",
+    "Brasa",
+    "Escarcha"
+  ],
+  "genres": [
+    "Comedia",
+    "Acción",
+    "Drama",
+    "Familiar",
+    "Suspense",
+    "Ciencia Ficción",
+    "Terror",
+    "Romance",
+    "Documental",
+    "Western",
+    "Musical",
+    "Misterio"
+  ],
+  "firstNames": [
+    "Manuel",
+    "Nina",
+    "Darío",
+    "Claudia",
+    "Saúl",
+    "Lucía",
+    "Álvaro",
+    "Elena",
+    "Javier",
+    "Rocío",
+    "Mateo",
+    "Carmen",
+    "Nuria",
+    "Ignacio",
+    "Pilar",
+    "Adrián",
+    "Marta",
+    "Bruno"
+  ],
+  "lastNames": [
+    "Arias",
+    "Olivo",
+    "Antón",
+    "Sandoval",
+    "Vega",
+    "Duarte",
+    "Ibarra",
+    "Salas",
+    "Bermúdez",
+    "Cifuentes",
+    "Nieto",
+    "Pardo",
+    "Quiroga",
+    "Lastra",
+    "Bonilla",
+    "Cañete"
+  ],
+  "plots": [
+    "Tras años separadas, una madre y su hija deben reunirse cuando la tragedia golpea a la familia. Los viejos secretos resurgen justo cuando más se necesitan.",
+    "Un ingeniero jubilado descubre una señal enterrada en una fábrica abandonada. Lo que empieza como curiosidad se convierte en una carrera contra quienes quieren silenciarla.",
+    "Dos desconocidos comparten un compartimento de tren a través de un país helado. Al amanecer, ninguno será quien subió al vagón.",
+    "Un pueblo vota por borrar un año de su historia oficial. El único testigo es un adolescente al que nadie cree.",
+    "Una traductora contratada para una sola reunión descubre que ambas partes mienten, y que solo ella lo sabe."
+  ],
+  "reviews": [
+    "Una obra silenciosamente devastadora que justifica cada uno de sus silencios.",
+    "Bellamente rodada, a ratos desconcertante, nunca aburrida. Merece la noche.",
+    "No le encuentro ningún sentido. No me ha gustado.",
+    "De esas películas que mejoran la segunda vez y te destrozan la tercera.",
+    "Veinte minutos más larga de la cuenta, y mejor por ello.",
+    "No tengo ni idea de qué he visto. Lo volveré a ver.",
+    "Se ve de un tirón y el final resulta genuinamente inquietante.",
+    "Los actores sostienen un guion que no siempre los acompaña.",
+    "Bella, fría y completamente absurda. Me encantó.",
+    "La primera mitad brilla; la segunda se deshace.",
+    "La he visto tres veces y siempre encuentro un detalle nuevo.",
+    "Demasiada música donde bastaba el silencio.",
+    "No es una obra maestra, pero se pasa volando.",
+    "El final es discutible y justo por eso funciona."
+  ],
+  "companies": [
+    "Hyatt S.A.",
+    "Lang - Hahn",
+    "Borer - Becker",
+    "Vance Medios",
+    "Prensa del Norte",
+    "Kessler Semanal"
+  ],
+  "trailerTitles": [
+    "ESTE OTOÑO",
+    "MUY PRONTO",
+    "UNA NOCHE",
+    "ESTE VERANO",
+    "YA EN CINES",
+    "BASADA EN HECHOS REALES"
+  ],
+  "words": {
+    "last": {
+      "m": "Último",
+      "f": "Última",
+      "mp": "Últimos",
+      "fp": "Últimas"
+    },
+    "ofthe": {
+      "m": "del",
+      "f": "de la",
+      "mp": "de los",
+      "fp": "de las"
+    }
+  }
+}
